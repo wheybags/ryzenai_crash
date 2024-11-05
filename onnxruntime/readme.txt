@@ -1,0 +1,1 @@
+all files here copied from C:\Program Files\RyzenAI\1.2.0 after running the installer
